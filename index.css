@@ -81,7 +81,7 @@ button{
                 flex-direction: column;
                  height: 8vh;
                  color: white;
-                 background-image: url(https://cdn.jsdelivr.net/gh/Dennisvc12/uvetechpe@main/710__BOSSTON-K380_03.png);
+            
                  
                 
                 }
@@ -156,7 +156,7 @@ button{
                             
 
     #LAPTOPS{
-
+ background-image: url(https://cdn.jsdelivr.net/gh/Dennisvc12/uvetechpe@main/710__BOSSTON-K380_03.png);
              }
     #LAPTOPS .container{
         text-align: center;
@@ -168,7 +168,9 @@ padding: 5px 142px;
     flex-direction: column;
      height: 100vh;;
     color: black;
-    background-color: rgb(94, 183, 255);}
+    background-color: rgb(94, 183, 255);
+     background-image: url(https://cdn.jsdelivr.net/gh/Dennisvc12/uvetechpe@main/710__BOSSTON-K380_03.png);
+    }
     
     
     #CELULARES{
