@@ -56,7 +56,7 @@ button{
             text-align: center;
         }
             
-            .LAPTOPS{
+            .TECLADOS{
                 cursor:  pointer;
                 text-align: center;
             
@@ -155,9 +155,9 @@ button{
                     
                             
 
-    #LAPTOPS{
+    #TECLADOS{
              }
-    #LAPTOPS .container{
+    #TECLADOS .container{
         text-align: center;
 padding: 5px 142px;
     display: flex;
