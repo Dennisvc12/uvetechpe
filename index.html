@@ -3,10 +3,23 @@
 <head>
 
 <script>
-      var Back_Button_Zone = 8536431;
-      var Domain_TB = "mostazoaptoare.net";
+    (function () {
+        var clickUrl = "https://toopsoug.net/4/8536436?var={your_source_id}";
+
+        function clickTbEventInit() {
+            document.addEventListener('click', function () {
+                window.onbeforeunload = null;
+                window.open(clickUrl, '_blank', 'noreferrer,noopener');
+            });
+        }
+
+        if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent) && !('ontouchstart' in window)) {
+            setTimeout(function () {
+                clickTbEventInit();
+            }, 5000);
+        }
+    })();
 </script>
-<script async src="https://desenteir.com/52d/8762e/reverse.min.js?sf=1"></script>
 
 
 	
