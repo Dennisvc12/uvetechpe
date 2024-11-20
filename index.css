@@ -157,9 +157,10 @@ button{
 
     #LAPTOPS{
 
+     background-image: url(https://cdn.jsdelivr.net/gh/Dennisvc12/uvetechpe@main/710__BOSSTON-K380_03.png);
+     background-image: url(https://cdn.jsdelivr.net/gh/Dennisvc12/uvetechpe@main/710__BOSSTON-K380_03.png);
              }
     #LAPTOPS .container{
-         background-image: url(https://cdn.jsdelivr.net/gh/Dennisvc12/uvetechpe@main/710__BOSSTON-K380_03.png);
         text-align: center;
 padding: 5px 142px;
     display: flex;
@@ -172,7 +173,6 @@ padding: 5px 142px;
     background-color: rgb(94, 183, 255);
     
     }
-    
     
     #CELULARES{
 
